@@ -1,4 +1,4 @@
-#índice de Larry Plotter
+#Indice de Larry Plotter
 
 1. Larry1
 2. Larry2
